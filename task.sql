@@ -1,8 +1,4 @@
-USE ShopDB; 
-
--- Create your stored procedure here
 DROP DATABASE IF EXISTS ShopDB;
-
 CREATE DATABASE ShopDB;
 USE ShopDB;
 
